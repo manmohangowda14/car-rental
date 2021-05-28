@@ -1,0 +1,50 @@
+h1{
+    color: oldlace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;  
+}
+
+body{
+    background-image:  url(45.jpg) ;
+}
+
+table,th,td{
+    border:2px solid oldlace;
+    border-collapse: collapse;
+}
+
+table{
+    width: 60%;
+}
+
+th{
+    color: rgb(253, 153, 4);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    font-size: 150%;
+
+}
+
+td{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+input.abc{
+    height: 30px;
+    width: 35%;
+    border-radius: 5px;
+    text-align: inherit;
+    border: 2px solid steelblue;
+    
+}
+input.def{
+    height: 30px;
+    width: 75px;
+    text-align: center;
+    margin:20px 10px;
+    font-weight: bold;
+    border: 2px solid steelblue;
+    overflow: hidden;
+}
